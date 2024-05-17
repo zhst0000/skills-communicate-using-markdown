@@ -6,3 +6,6 @@ Added header
 ``` c++
 int x = int y
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
